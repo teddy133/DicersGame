@@ -1,2 +1,2 @@
 # DicersGame
-Simple Dice Game for Blog
+Simple Dice Game Created for Blog
